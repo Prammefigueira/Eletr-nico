@@ -1,0 +1,7 @@
+Success: Que legal
+Error: qualquer coisa
+Success: Que legal
+Error: qualquer coisa
+Success: Que legal
+Success: Galaxy S está ligado
+Error: Iphone está desligado
