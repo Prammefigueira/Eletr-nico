@@ -17,8 +17,10 @@ Para utilizar o sistema, siga os passos abaixo:
 
 1. Certifique-se de ter o Python 3 instalado na sua máquina.
 2. Clone este repositório ou baixe os arquivos manualmente:
+
    git clone https://github.com/seuusuario/eletronico.git
    cd eletronico
+   
 3.Execute o script main.py para testar o funcionamento:
   python main.py
 
